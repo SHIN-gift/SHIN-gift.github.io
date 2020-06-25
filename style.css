@@ -1,0 +1,201 @@
+body {
+  padding-top: 50px;
+}
+
+.jumbotron {
+  background-image: url(img/黒人3.jpg) ;
+  background-size: cover;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.jumbotron h1 {
+  color: #333333;
+}
+
+.hosuto-syoukai-1{
+  background-color: white;
+  width: 30%;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 80px 0px 80px 1000px;
+}
+
+.hosuto-syoukai-2{
+  background-color: white;
+  width: ;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 80px 0 80px 0;
+}
+
+.jumbotron-bottom {
+  margin-bottom: 15px;
+  color: black;
+  font-weight: bold;
+}
+
+.form-control {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.btn-form {
+  background-color: rgb(149, 97, 84);
+  color: white;
+  font-size: 25px;
+  border-radius: 8px;
+}
+
+.hosuto span {
+  font-size: 30px;
+  color:rgb(27, 186, 26);
+}
+
+.hosuto-top {
+  padding: 60px 0 60px 0;
+}
+.manniti {
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  margin: 40px 0 30px 0;
+}
+
+.manniti-p {
+  font-weight: 100;
+}
+
+.manniti-ul ul {
+  list-style: none;
+}
+
+.span-li {
+  font-size: 25px;
+  color: #63f0e3;
+  padding-right: 10px;
+}
+
+.main-2 {
+  margin:50px 0 50px 0;
+}
+
+.text-center {
+  font-size: 50px;
+  font-weight: bold;
+  margin: 60px 0 60px 0;
+}
+
+.hosuto {
+  font-size: 32px;
+  line-height: 40px !important;
+
+}
+
+.hosuto-bottom {
+  padding: 100px 30px 100px 0;
+}
+
+
+.font-hosuto {
+  font-size: 3em;
+}
+
+.airbnb-bnb{
+  margin: 200px  0 200px 0 ;
+}
+.col-btn {
+  padding: 0 50px;
+}
+
+.border-btn {
+  border-bottom: 1px solid rgb(21, 245, 184);
+}
+
+.hosutlingu {
+  width: 100%;
+  height: 60%;
+  position: static;
+}
+
+.pin {
+  margin-top: 150px;
+}
+
+.example {
+  position: relative;
+  margin: 0 auto;
+  width: 1280px;
+  margin-top: 50px;
+}
+
+.example h2 {
+  position: absolute;
+  color:white;
+  top:69px;
+  left: 90px;
+  font-weight: bold;
+  font-size: 4rem;
+   font-family :Quicksand, sans-serif;
+}
+
+.example button{
+  position: absolute;
+  top: 70%;
+  left: 80px;
+  margin: 0;
+  border: solid 2px white;
+  color: black;
+  background-color: white;
+  border-radius: 3px;
+  padding:10px 22px;
+  font-weight: bold;
+}
+
+.example img {
+  width: 100%;
+  height: 300px;
+}
+.plan {
+  background-color: #f7f7f7;
+  margin-top: 100px;
+  padding:48px 15%;
+
+}
+
+.plan ul {
+  list-style: none;
+}
+
+.plan li {
+  padding-top: 10px;
+}
+
+.plan a {
+  color:#222222;
+}
+
+.plan h4 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.border-plan {
+  border-bottom: 0.2px solid #6f9294;
+  padding-bottom: 50px;
+}
+
+.last-text {
+  float: left;
+}
+.last-icon {
+  display: block;
+  padding-top: 0px;
+  float: right;
+
+}
+
+.last {
+  font-size: 14px;
+  color: #222222;
+}
